@@ -2,3 +2,5 @@
 ==
 
 OpenGL rendering engine
+
+Uses GLM, GLFW and GLEW
